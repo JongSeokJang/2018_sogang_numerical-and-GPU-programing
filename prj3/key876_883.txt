@@ -1,0 +1,8 @@
+876 : Blackberry  Iphone      LCD         battery   software    Mobile      security
+877 : WWDC        IOS12       Mojave      Messages  CarPlay     Memos       Siri
+878 : game        ROG         Asus        Android   speed       dual-screen headphone
+879 : V35         G7          ThinQ       display   dual-sensor AT&T        LG
+880 : Apple       AirPlay     wireless    IOS       audio       iPad        WWDC
+881 : HTC         flgship     squeezable  camera    BoomSound   integration dual-sensor
+882 : Sony        MP-CD1      projector   upgrade   ANSI        redesign    Intellibright
+883 : powerbank   wirelessly  module      gadgets   stackable   battery     charge
